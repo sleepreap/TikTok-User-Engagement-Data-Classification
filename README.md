@@ -32,9 +32,8 @@ video_comment_count|The total number of comments on the published video.|
 
 # Algorithms
 
-- Logistic Regression
 - Decision Tree
 - Random Forest
 - XGBoost
   
-**Best Model AUC Score:** 96.00
+**Best Model AUC Score:** 99.80
